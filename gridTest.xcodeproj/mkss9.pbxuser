@@ -1,0 +1,195 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* gridTestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 641}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 466}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* gridTest */ = {
+		activeExec = 0;
+		executables = (
+			ED283774131716ED00107CB6 /* gridTest */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* gridTestViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 637}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 227}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* gridTestViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 1846}}";
+			sepNavSelRange = "{1745, 0}";
+			sepNavVisRange = "{2060, 1411}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ED283774131716ED00107CB6 /* gridTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* gridTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* gridTest */,
+		);
+		codeSenseManager = ED2837791317170C00107CB6 /* Code sense */;
+		executables = (
+			ED283774131716ED00107CB6 /* gridTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1200,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 331015442;
+			PBXWorkspaceStateSaveDate = 331015442;
+		};
+		perUserProjectItems = {
+			ED2837C31317255C00107CB6 /* PBXTextBookmark */ = ED2837C31317255C00107CB6 /* PBXTextBookmark */;
+			ED2837C41317255C00107CB6 /* PBXTextBookmark */ = ED2837C41317255C00107CB6 /* PBXTextBookmark */;
+			ED2837C51317255C00107CB6 /* PBXTextBookmark */ = ED2837C51317255C00107CB6 /* PBXTextBookmark */;
+			ED2837C61317255C00107CB6 /* PBXTextBookmark */ = ED2837C61317255C00107CB6 /* PBXTextBookmark */;
+			ED2837C81317255C00107CB6 /* PBXTextBookmark */ = ED2837C81317255C00107CB6 /* PBXTextBookmark */;
+			ED5FEFD013BAE5E200AB2300 /* PBXTextBookmark */ = ED5FEFD013BAE5E200AB2300 /* PBXTextBookmark */;
+		};
+		sourceControlManager = ED2837781317170C00107CB6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	ED283774131716ED00107CB6 /* gridTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = gridTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ED2837781317170C00107CB6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ED2837791317170C00107CB6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ED2837831317188600107CB6 /* MyTableCell.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 616}}";
+			sepNavSelRange = "{216, 0}";
+			sepNavVisRange = "{0, 264}";
+		};
+	};
+	ED2837841317188600107CB6 /* MyTableCell.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1378, 741}}";
+			sepNavSelRange = "{1248, 0}";
+			sepNavVisRange = "{0, 1191}";
+		};
+	};
+	ED2837C31317255C00107CB6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* gridTestAppDelegate.h */;
+		name = "gridTestAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	ED2837C41317255C00107CB6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED2837831317188600107CB6 /* MyTableCell.h */;
+		name = "MyTableCell.h: 14";
+		rLen = 0;
+		rLoc = 216;
+		rType = 0;
+		vrLen = 264;
+		vrLoc = 0;
+	};
+	ED2837C51317255C00107CB6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED2837841317188600107CB6 /* MyTableCell.m */;
+		name = "MyTableCell.m: 53";
+		rLen = 0;
+		rLoc = 1248;
+		rType = 0;
+		vrLen = 1191;
+		vrLoc = 0;
+	};
+	ED2837C61317255C00107CB6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* gridTestViewController.m */;
+		name = "gridTestViewController.m: 68";
+		rLen = 0;
+		rLoc = 1745;
+		rType = 0;
+		vrLen = 1411;
+		vrLoc = 2060;
+	};
+	ED2837C81317255C00107CB6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* gridTestViewController.h */;
+		name = "gridTestViewController.h: 11";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
+	};
+	ED5FEFD013BAE5E200AB2300 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* gridTestViewController.h */;
+		name = "gridTestViewController.h: 11";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
+	};
+}

@@ -1,0 +1,256 @@
+TgridTest
+v7
+r0
+t320280492.797959
+cCheck dependencies
+cProcessInfoPlistFile /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/Info.plist gridTest-Info.plist
+cCompileXIB /Users/mkss9/Documents/Iphone/gridTest/MainWindow.xib
+cCompileXIB /Users/mkss9/Documents/Iphone/gridTest/gridTestViewController.xib
+cProcessPCH /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gridTest_Prefix-ajtkeszhjeidragtbxnuwmaofcrq/gridTest_Prefix.pch.gch gridTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/main.o /Users/mkss9/Documents/Iphone/gridTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestAppDelegate.o /Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestViewController.o /Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest normal i386
+cGenerateDSYMFile /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app.dSYM /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest
+cTouch /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestAppDelegate.h
+c000000004D66DF6D00000000000001D2
+t1298587501
+s466
+i<UIKit/UIKit.h>
+
+N/Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestAppDelegate.m
+c000000004D66DF6D0000000000000A87
+t1298587501
+s2695
+i"gridTestAppDelegate.h"
+i"gridTestViewController.h"
+
+N/Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestViewController.h
+c000000004D66DF6D00000000000000DE
+t1298587501
+s222
+i<UIKit/UIKit.h>
+
+N/Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestViewController.m
+c000000004D66DF6D00000000000005B2
+t1298587501
+s1458
+i"gridTestViewController.h"
+
+N/Users/mkss9/Documents/Iphone/gridTest/MainWindow.xib
+c000000004D66DF6D0000000000004E35
+t1298587501
+s20021
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app
+t1298587692
+s238
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app.dSYM
+t1298587692
+s102
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/Info.plist
+t1298587688
+s595
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/MainWindow.nib
+t1298587689
+s1125
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/PkgInfo
+t1298587688
+s8
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest
+t1298587692
+s17120
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTestViewController.nib
+t1298587689
+s1085
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTest.LinkFileList
+c000000004D66E0280000000000000195
+t1298587688
+s405
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestAppDelegate.o
+t1298587692
+s50952
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestViewController.o
+t1298587692
+s37520
+
+N/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/main.o
+t1298587692
+s6304
+
+N/Users/mkss9/Documents/Iphone/gridTest/gridTestViewController.xib
+c000000004D66DFEE00000000000043EB
+t1298587630
+s17387
+
+N/Users/mkss9/Documents/Iphone/gridTest/gridTest_Prefix.pch
+c000000004D66DF6D00000000000000B9
+t1298587501
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mkss9/Documents/Iphone/gridTest/main.m
+c000000004D66DF6D0000000000000157
+t1298587501
+s343
+i<UIKit/UIKit.h>
+
+N/var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gridTest_Prefix-ajtkeszhjeidragtbxnuwmaofcrq/gridTest_Prefix.pch.gch
+t1298587691
+s10360536
+
+NgridTest-Info.plist
+c000000004D66DF6D000000000000038D
+t1298587501
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320280488#320280488#0(0"0(0#1#0"2539192976#0"0#
+
+CCompileC build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestAppDelegate.o /Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320280491.895916
+e320280492.108287
+r1
+xCompileC
+xbuild/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestAppDelegate.o
+x/Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestAppDelegate.m320280491#320280492#0(0"0(0#0#68"/Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestAppDelegate.m2539192976#1972"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-generated-files.hmap -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-own-target-headers.hmap -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-all-target-headers.hmap -iquote /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-project-headers.hmap -F/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator -I/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/DerivedSources/i386 -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gridTest_Prefix-ajtkeszhjeidragtbxnuwmaofcrq/gridTest_Prefix.pch -c /Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestAppDelegate.m -o /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestAppDelegate.o0#
+
+CCompileC build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestViewController.o /Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320280492.100132
+e320280492.182742
+r1
+xCompileC
+xbuild/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestViewController.o
+x/Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestViewController.m320280492#320280492#0(0"0(0#0#71"/Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestViewController.m2539192976#1978"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-generated-files.hmap -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-own-target-headers.hmap -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-all-target-headers.hmap -iquote /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-project-headers.hmap -F/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator -I/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/DerivedSources/i386 -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gridTest_Prefix-ajtkeszhjeidragtbxnuwmaofcrq/gridTest_Prefix.pch -c /Users/mkss9/Documents/Iphone/gridTest/Classes/gridTestViewController.m -o /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTestViewController.o0#
+
+CCompileC build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/main.o /Users/mkss9/Documents/Iphone/gridTest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320280491.894444
+e320280492.099995
+r1
+xCompileC
+xbuild/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/main.o
+x/Users/mkss9/Documents/Iphone/gridTest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/mkss9/Documents/Iphone/gridTest/main.m320280491#320280492#0(0"0(0#0#45"/Users/mkss9/Documents/Iphone/gridTest/main.m2539192976#1934"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-generated-files.hmap -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-own-target-headers.hmap -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-all-target-headers.hmap -iquote /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-project-headers.hmap -F/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator -I/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/DerivedSources/i386 -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/DerivedSources -include /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gridTest_Prefix-ajtkeszhjeidragtbxnuwmaofcrq/gridTest_Prefix.pch -c /Users/mkss9/Documents/Iphone/gridTest/main.m -o /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mkss9/Documents/Iphone/gridTest/MainWindow.xib
+s320280488.784090
+e320280489.985544
+r1
+xCompileXIB
+x/Users/mkss9/Documents/Iphone/gridTest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320280488#320280489#0(0"0(0#0#53"/Users/mkss9/Documents/Iphone/gridTest/MainWindow.xib2539192976#571"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/MainWindow.nib /Users/mkss9/Documents/Iphone/gridTest/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/mkss9/Documents/Iphone/gridTest/gridTestViewController.xib
+s320280488.786414
+e320280489.926707
+r1
+xCompileXIB
+x/Users/mkss9/Documents/Iphone/gridTest/gridTestViewController.xib
+lSLF07#2@37"CompileXIB gridTestViewController.xib320280488#320280489#0(0"0(0#0#65"/Users/mkss9/Documents/Iphone/gridTest/gridTestViewController.xib2539192976#595"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTestViewController.nib /Users/mkss9/Documents/Iphone/gridTest/gridTestViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app.dSYM /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest
+s320280492.650503
+e320280492.777168
+r1
+xGenerateDSYMFile
+x/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app.dSYM
+x/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/gridTest.app.dSYM build/Debug-iphonesimulator/gridTest.app/gridTest320280492#320280492#0(0"0(0#0#88"/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest2539192976#386"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest -o /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app.dSYM0#
+
+CLd /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest normal i386
+s320280492.182867
+e320280492.650359
+r1
+xLd
+x/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest
+xnormal
+xi386
+lSLF07#2@93"Link /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest320280492#320280492#0(0"0(0#0#0"2539192976#905"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator -F/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator -filelist /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/Objects-normal/i386/gridTest.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/gridTest0#
+
+CProcessInfoPlistFile /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/Info.plist gridTest-Info.plist
+s320280488.750044
+e320280488.783941
+r1
+xProcessInfoPlistFile
+x/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/Info.plist
+xgridTest-Info.plist
+lSLF07#2@27"Process gridTest-Info.plist320280488#320280488#0(0"0(0#0#58"/Users/mkss9/Documents/Iphone/gridTest/gridTest-Info.plist2539192976#482"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility gridTest-Info.plist -genpkginfo /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app/Info.plist0#
+
+CProcessPCH /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gridTest_Prefix-ajtkeszhjeidragtbxnuwmaofcrq/gridTest_Prefix.pch.gch gridTest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320280489.985720
+e320280491.894231
+r1
+xProcessPCH
+x/var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gridTest_Prefix-ajtkeszhjeidragtbxnuwmaofcrq/gridTest_Prefix.pch.gch
+xgridTest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile gridTest_Prefix.pch320280489#320280491#0(0"0(0#0#58"/Users/mkss9/Documents/Iphone/gridTest/gridTest_Prefix.pch2539192976#1825"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-generated-files.hmap -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-own-target-headers.hmap -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-all-target-headers.hmap -iquote /Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/gridTest-project-headers.hmap -F/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator -I/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/include -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/DerivedSources/i386 -I/Users/mkss9/Documents/Iphone/gridTest/build/gridTest.build/Debug-iphonesimulator/gridTest.build/DerivedSources -c /Users/mkss9/Documents/Iphone/gridTest/gridTest_Prefix.pch -o /var/folders/iA/iAsAUpAYE5m+4YxIYPUq-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/gridTest_Prefix-ajtkeszhjeidragtbxnuwmaofcrq/gridTest_Prefix.pch.gch0#
+
+CTouch /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app
+s320280492.777281
+e320280492.797882
+r1
+xTouch
+x/Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app
+lSLF07#2@85"Touch /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app320280492#320280492#0(0"0(0#0#0"2539192976#279"    cd /Users/mkss9/Documents/Iphone/gridTest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mkss9/Documents/Iphone/gridTest/build/Debug-iphonesimulator/gridTest.app0#
+
